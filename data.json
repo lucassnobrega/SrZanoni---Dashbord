@@ -15,7 +15,13 @@
           "label": "Estrutura Organizacional - Notion",
           "url": "https://www.notion.so/33de2d0ad8b181989eafcc9e730699b4"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "g2",
@@ -36,7 +42,13 @@
           "label": "Notion",
           "url": "https://www.notion.so/33de2d0ad8b181b8b675dd0b57fd1b0d"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "g3",
@@ -57,7 +69,13 @@
           "label": "Notion",
           "url": "https://www.notion.so/33de2d0ad8b1816d8bb8cebcb92881d6"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "g4",
@@ -74,7 +92,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/c49HRHYNEIXV9SQ"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "g5",
@@ -91,7 +115,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/pfAj_8yyOdA0uti"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "g6",
@@ -108,7 +138,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/MNC3PcJdrHVSZbs"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Em implantação",
+      "evidenceType": "Documento"
     },
     {
       "id": "g7",
@@ -125,7 +161,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/R9siv0ZXY7EbX2K"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "g8",
@@ -142,7 +184,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/3o0l2EeO1FRYIaf"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Escala",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "g9",
@@ -154,7 +202,13 @@
       "priority": "Alta",
       "owner": "Lucas Nobrega",
       "summary": "Cruzar investimento de marketing com resultado real de vendas e margem.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "g10",
@@ -166,84 +220,108 @@
       "priority": "Alta",
       "owner": "Lucas Nobrega",
       "summary": "Criar projeção de caixa e rotina de acompanhamento consolidada do grupo.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z1",
-      "title": "Reestruturação da Área de Marketing",
+      "title": "Reestruturação do Tráfego Pago",
       "brand": "Sr. Zanoni",
       "pillar": "marketing",
       "category": "Marketing",
       "status": "Concluído",
       "priority": "Alta",
       "owner": "Carol / Lucas",
-      "summary": "Revisão completa da estrutura, responsabilidades e fluxo do setor de marketing.",
-      "docs": []
+      "summary": "Foi feita a reestruturação da lógica das campanhas pagas, com definição mais clara de objetivos, segmentação mais estratégica, acompanhamento de métricas e ajustes contínuos de performance. A atuação deixou de ser apenas presença digital e passou a buscar intenção real de resultado, seja em vendas, posicionamento ou fortalecimento da marca.",
+      "docs": [],
+      "problem": "O tráfego pago corria o risco de operar sem direcionamento suficiente de objetivo, segmentação e análise, o que reduziria eficiência do investimento e dificultaria transformar mídia em resultado real.",
+      "businessImpact": "Melhora a qualidade do investimento em mídia, aumenta a chance de gerar resultado comercial mensurável e aproxima o marketing de vendas, posicionamento e crescimento com mais previsibilidade.",
+      "nextStep": "Aprofundar a leitura de performance por campanha, canal e objetivo, refinando continuamente criativos, segmentação e distribuição de investimento.",
+      "phase": "Implantação e validação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z2",
-      "title": "Manual de Cargo — Marketing",
+      "title": "Atuação Estratégica em Campanhas e Ações Presenciais",
       "brand": "Sr. Zanoni",
       "pillar": "marketing",
-      "category": "Pessoas",
+      "category": "Marketing",
       "status": "Concluído",
       "priority": "Média",
       "owner": "Lucas Nobrega",
-      "summary": "Descrição de cargo, responsabilidades, entregas e indicadores da função de marketing.",
+      "summary": "O trabalho de marketing já incluiu suporte estratégico em campanhas práticas, com orientação sobre comunicação, posicionamento, abordagem comercial e acompanhamento de execução. Essa atuação trouxe maior integração entre marketing, comercial e operação, reforçando a marca de forma mais coerente no ponto de contato com o cliente.",
       "docs": [
         {
           "label": "Canva",
           "url": "https://www.canva.com/d/M4hYBEdbvST3AgM"
         }
-      ]
+      ],
+      "problem": "As ações de campanha corriam o risco de acontecer de forma isolada, sem alinhamento suficiente entre comunicação, experiência do cliente e objetivo comercial da operação.",
+      "businessImpact": "Melhora a consistência da execução das campanhas, fortalece a percepção de marca nos pontos de contato e aumenta a conexão entre marketing e resultado prático da operação.",
+      "nextStep": "Padronizar o raciocínio estratégico das campanhas e criar uma lógica replicável para ações futuras, com briefing, objetivo, execução e leitura de resultado.",
+      "phase": "Implantação e validação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "z3",
-      "title": "Alinhamentos Estratégicos de Marketing",
+      "title": "Reorganização Estratégica do Marketing",
       "brand": "Sr. Zanoni",
       "pillar": "marketing",
       "category": "Marketing",
       "status": "Concluído",
       "priority": "Alta",
       "owner": "Lucas Nobrega",
-      "summary": "Reuniões de posicionamento, campanhas, prioridades e direcionamento da operação.",
-      "docs": []
+      "summary": "Foi realizada a reorganização inicial da frente de marketing, deixando a área menos operacional e mais estratégica. Houve alinhamento sobre prioridades, objetivos por campanha, papel do marketing dentro do grupo e conexão mais clara entre comunicação, vendas e posicionamento. O marketing começou a deixar de atuar apenas por demanda do dia a dia e passou a ter direção mais estruturada.",
+      "docs": [],
+      "problem": "A área de marketing atuava com baixa estrutura estratégica, muito orientada por urgências e demandas pontuais, sem clareza suficiente sobre prioridades, papel dentro do grupo e conexão com os objetivos comerciais das unidades.",
+      "businessImpact": "Essa reorganização fortalece o marketing como área de suporte real ao crescimento, melhora a coerência entre comunicação e vendas e cria uma base mais sólida para campanhas, posicionamento e tomada de decisão.",
+      "nextStep": "Consolidar a rotina estratégica da área com calendário, metas por campanha e integração mais clara entre marketing, comercial, delivery e operação.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z4",
-      "title": "Relatórios Semanais — Carol",
+      "title": "Direcionamento de Posicionamento de Marca",
       "brand": "Sr. Zanoni",
       "pillar": "marketing",
       "category": "Marketing",
       "status": "Concluído",
       "priority": "Média",
       "owner": "Carol",
-      "summary": "Acompanhamento semanal das entregas e atividades do marketing.",
-      "docs": []
-    },
-    {
-      "id": "z5",
-      "title": "Gestão de iFood e Delivery",
-      "brand": "Sr. Zanoni",
-      "pillar": "marketing",
-      "category": "Tecnologia",
-      "status": "Em foco",
-      "priority": "Alta",
-      "owner": "Lucas / Operação",
-      "summary": "Otimização de presença, operação e performance das plataformas de delivery.",
-      "docs": []
+      "summary": "Foi iniciado o amadurecimento do posicionamento da marca, discutindo identidade, percepção de valor, coerência entre produto, preço e imagem, e ajuste da comunicação ao público. Esse trabalho começou a estruturar o marketing não apenas como divulgação, mas como construção de marca com direção mais clara e maior consistência.",
+      "docs": [],
+      "problem": "A marca precisava de maior clareza sobre como se apresentar ao público, com mais coerência entre produto, valor percebido, comunicação e proposta comercial.",
+      "businessImpact": "Fortalece identidade de marca, melhora a coerência da comunicação e cria uma base mais madura para diferenciação, percepção de valor e construção de demanda.",
+      "nextStep": "Aprofundar a tradução do posicionamento em campanhas, presença digital, linguagem visual, materiais e experiência comercial da marca.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z6",
-      "title": "Google Meu Negócio — 3 Unidades",
+      "title": "Otimização do Google Meu Negócio das Unidades",
       "brand": "Sr. Zanoni",
       "pillar": "marketing",
       "category": "Marketing",
       "status": "Pendente",
       "priority": "Média",
       "owner": "Marketing",
-      "summary": "Otimizar as fichas de Londrina, Maringá e Alphaville com fotos, cardápio e descrições.",
-      "docs": []
+      "summary": "Está prevista a otimização das fichas do Google Meu Negócio das unidades, com atualização de fotos, descrições, cardápios e informações institucionais. A proposta é melhorar presença local, aumentar credibilidade digital e fortalecer a capacidade da marca de captar clientes por busca orgânica.",
+      "docs": [],
+      "problem": "As unidades ainda não aproveitam plenamente a presença local no Google, o que reduz visibilidade, confiança e conversão de buscas em visita ou pedido.",
+      "businessImpact": "Aumenta a descoberta orgânica das unidades, fortalece reputação digital e melhora a conversão de busca local em tráfego, visita e venda.",
+      "nextStep": "Padronizar as fichas das unidades, atualizar material visual e revisar descrições, categorias e cardápios cadastrados.",
+      "phase": "Implantação e validação",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z7",
@@ -254,20 +332,32 @@
       "status": "Pendente",
       "priority": "Média",
       "owner": "Marketing",
-      "summary": "Criar banco de imagens completo do cardápio para redes e delivery.",
-      "docs": []
+      "summary": "Está pendente a produção de um banco profissional de imagens dos pratos e itens estratégicos do cardápio, com foco em fortalecer a comunicação visual da marca, aumentar o valor percebido dos produtos e melhorar a performance dos canais de divulgação e venda. A intenção é construir um acervo visual mais consistente para redes sociais, campanhas e delivery",
+      "docs": [],
+      "problem": "Sem imagens profissionais, a marca comunica menos valor, reduz força comercial nas campanhas e perde qualidade de apresentação nos canais digitais e de venda.",
+      "businessImpact": "Melhora a percepção de valor da marca, fortalece campanhas, redes sociais e delivery, e aumenta a capacidade de transformar comunicação em venda.",
+      "nextStep": "Planejar produção do banco de imagens, definir itens prioritários do cardápio e organizar a captação com foco comercial e institucional.",
+      "phase": "Implantação e validação",
+      "progressStage": "Em implantação",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z8",
-      "title": "Programa de Fidelidade",
+      "title": "Estruturação de Estratégias de Fidelização",
       "brand": "Sr. Zanoni",
       "pillar": "marketing",
       "category": "Marketing",
       "status": "Pendente",
       "priority": "Baixa",
       "owner": "Marketing",
-      "summary": "Sistema de recompensas para clientes recorrentes.",
-      "docs": []
+      "summary": "Está pendente a criação de estratégias mais estruturadas de fidelização, com foco em aumentar recorrência, fortalecer relacionamento com clientes e reduzir dependência excessiva de aquisição. A proposta é construir mecanismos simples, sustentáveis e coerentes com a operação para estimular recompra e permanência da base ativa.",
+      "docs": [],
+      "problem": "Sem mecanismos de fidelização, o crescimento fica mais dependente de novas aquisições e perde eficiência na retenção e recorrência da base atual.",
+      "businessImpact": "Aumenta frequência de compra, melhora valor por cliente ao longo do tempo e fortalece crescimento com base mais previsível.",
+      "nextStep": "Definir a lógica inicial de fidelização, validar viabilidade operacional e estruturar uma primeira versão conectada ao ticket e à recorrência.",
+      "phase": "Escala",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z9",
@@ -279,7 +369,13 @@
       "priority": "Média",
       "owner": "Lucas Nobrega",
       "summary": "Descrição de cargo, rotina e indicadores da auxiliar administrativa.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z10",
@@ -291,7 +387,13 @@
       "priority": "Média",
       "owner": "Lucas Nobrega",
       "summary": "Atribuições de liderança do escritório, rotina gerencial e indicadores.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z11",
@@ -303,7 +405,13 @@
       "priority": "Média",
       "owner": "Lucas Nobrega",
       "summary": "Fluxo financeiro operacional, rotina e metas do cargo.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z12",
@@ -315,7 +423,13 @@
       "priority": "Média",
       "owner": "Lucas Nobrega",
       "summary": "Escopo operacional e rotina da função administrativa/financeira.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z13",
@@ -327,7 +441,13 @@
       "priority": "Alta",
       "owner": "Lucas / Operação",
       "summary": "Levantamento de caixa, cozinha, churrasqueira, bar, limpeza, garçons, gerência e produção.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z14",
@@ -339,7 +459,13 @@
       "priority": "Média",
       "owner": "Lucas Nobrega",
       "summary": "Dinâmica presencial de integração, cultura e alinhamento de postura.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z15",
@@ -351,7 +477,13 @@
       "priority": "Alta",
       "owner": "Lucas / Bruna",
       "summary": "Integração, validação de papel e maturidade da nova pessoa de compras.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Em implantação",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z16",
@@ -363,7 +495,13 @@
       "priority": "Média",
       "owner": "RH / Consultoria",
       "summary": "Estruturar integração dos primeiros 30 dias com checklist e avaliação.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z17",
@@ -375,7 +513,13 @@
       "priority": "Alta",
       "owner": "Lucas / Operação",
       "summary": "Manual unificado para todas as unidades com padrão de operação e atendimento.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z18",
@@ -392,7 +536,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/cBtS_rWoV7XH-Wi"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "z19",
@@ -409,7 +559,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/Wwepn56CdKW-OQW"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "z20",
@@ -426,7 +582,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/xo2Lf-ZHNdw3q02"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "z21",
@@ -443,7 +605,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/TmB6Ua6YfYxTWn9"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "z22",
@@ -460,7 +628,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/fJ_Tbzbaax1xkOr"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "z23",
@@ -472,7 +646,13 @@
       "priority": "Alta",
       "owner": "Lucas Nobrega",
       "summary": "Planilha analítica com abertura linha a linha da DRE das unidades.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z24",
@@ -484,7 +664,13 @@
       "priority": "Alta",
       "owner": "Lucas Nobrega",
       "summary": "Cruzamento entre ficha técnica ideal e execução real da operação.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Em implantação",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z25",
@@ -496,7 +682,13 @@
       "priority": "Alta",
       "owner": "Lucas Nobrega",
       "summary": "Precificação e cálculo de margem dos novos pratos e receitas estratégicas.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Em implantação",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z26",
@@ -508,7 +700,13 @@
       "priority": "Alta",
       "owner": "Lucas Nobrega",
       "summary": "Projeção de caixa para os próximos meses e apoio à tomada de decisão.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Em implantação",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z27",
@@ -520,7 +718,13 @@
       "priority": "Alta",
       "owner": "Financeiro",
       "summary": "Disponibilizar DRE até o 5º dia útil sem trabalho manual de consolidação.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z28",
@@ -537,7 +741,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/LT7OWH_AmtzSsV2"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Documentado",
+      "evidenceType": "Documento"
     },
     {
       "id": "z29",
@@ -554,7 +764,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/KMXmnAAgx-htzrO"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "z30",
@@ -566,7 +782,13 @@
       "priority": "Alta",
       "owner": "Lucas / Nelci",
       "summary": "Ajuste do processo de conferência de caixa e leitura de fechamentos.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Em implantação",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z31",
@@ -578,7 +800,13 @@
       "priority": "Alta",
       "owner": "Lucas Nobrega",
       "summary": "Entradas, saladas, sanduíches, massas, porções, grelhados, bebidas, fichas técnicas e precificação.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z32",
@@ -590,7 +818,13 @@
       "priority": "Alta",
       "owner": "Lucas / Operação",
       "summary": "Execução do protótipo Alphaville como base de validação do novo modelo de unidade.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Escala",
+      "progressStage": "Em implantação",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z33",
@@ -602,7 +836,13 @@
       "priority": "Alta",
       "owner": "Lucas / Operação",
       "summary": "Medir, ajustar e padronizar antes de replicar em novas unidades.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Escala",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z34",
@@ -614,7 +854,13 @@
       "priority": "Média",
       "owner": "Diretoria",
       "summary": "Replicar o modelo validado em novas operações próprias.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Escala",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r1",
@@ -631,7 +877,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/-hbihFsABAtO5E8"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "r2",
@@ -648,7 +900,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/jpbSmPikI0jme9D"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "r3",
@@ -665,7 +923,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/dQP2aSDlOXZd0xl"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "r4",
@@ -677,7 +941,13 @@
       "priority": "Alta",
       "owner": "Lucas Nobrega",
       "summary": "Plano da semana de lançamento do Yalla com ações, ofertas e comunicação.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r5",
@@ -689,7 +959,13 @@
       "priority": "Média",
       "owner": "Marketing",
       "summary": "Montagem do calendário mensal com datas, formatos, campanhas e responsáveis.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Em implantação",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r6",
@@ -706,7 +982,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/NDpkL-jAwdItYbx"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Documentado",
+      "evidenceType": "Documento"
     },
     {
       "id": "r7",
@@ -723,7 +1005,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/R4VfSmHykEMtAXc"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "r8",
@@ -740,7 +1028,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/zAOPU7hq4Wgg3Uu"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "r9",
@@ -757,7 +1051,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/PVxa7rcENjUafEn"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "r10",
@@ -769,7 +1069,13 @@
       "priority": "Média",
       "owner": "Lucas Nobrega",
       "summary": "Treinamento e material de atendimento com foco em venda consultiva.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r11",
@@ -786,7 +1092,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/pCQs8QABdgrrzDS"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Em implantação",
+      "evidenceType": "Documento"
     },
     {
       "id": "r12",
@@ -798,7 +1110,13 @@
       "priority": "Alta",
       "owner": "Consultoria",
       "summary": "Pacote de treinamento para futuros franqueados e equipes operacionais.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r13",
@@ -815,7 +1133,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/Pt0k5EZeRN49-2b"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "r14",
@@ -827,7 +1151,13 @@
       "priority": "Média",
       "owner": "Lucas Nobrega",
       "summary": "Parâmetros de reposição por insumo para melhorar compras e ruptura.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r15",
@@ -839,7 +1169,13 @@
       "priority": "Alta",
       "owner": "Lucas Nobrega",
       "summary": "Demonstrativos de resultado das duas unidades do Raz com leitura gerencial.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r16",
@@ -856,7 +1192,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/S1RbcV_DfFTAn0M"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "r17",
@@ -868,7 +1210,13 @@
       "priority": "Alta",
       "owner": "Lucas Nobrega",
       "summary": "Unificar método de cálculo e meta de CMV entre as unidades.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Em implantação",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r18",
@@ -880,7 +1228,13 @@
       "priority": "Alta",
       "owner": "Lucas Nobrega",
       "summary": "Projeção de entradas e saídas para apoiar crescimento e expansão.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Em implantação",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r19",
@@ -892,7 +1246,13 @@
       "priority": "Alta",
       "owner": "Consultoria",
       "summary": "DRE do franqueado, taxas, royalties e projeção de retorno.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r20",
@@ -904,7 +1264,13 @@
       "priority": "Média",
       "owner": "Consultoria",
       "summary": "Tabela de preços para canal corporativo com margens adequadas.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Diagnóstico",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r21",
@@ -916,7 +1282,13 @@
       "priority": "Baixa",
       "owner": "Lucas Nobrega",
       "summary": "Material da fase inicial de consultoria express do Raz.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r22",
@@ -933,7 +1305,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/K8sTzG1Cs9k0x_5"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "r23",
@@ -950,7 +1328,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/pCQs8QABdgrrzDS"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Implantado",
+      "evidenceType": "Documento"
     },
     {
       "id": "r24",
@@ -962,7 +1346,13 @@
       "priority": "Alta",
       "owner": "Lucas Nobrega",
       "summary": "Planejamento da produção centralizada que sustentará franquias e canal B2B.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Em implantação",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r25",
@@ -979,7 +1369,13 @@
           "label": "Canva",
           "url": "https://www.canva.com/d/NDpkL-jAwdItYbx"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Em implantação",
+      "evidenceType": "Documento"
     },
     {
       "id": "r26",
@@ -996,7 +1392,13 @@
           "label": "Canva - Expansão Estratégica",
           "url": "https://www.canva.com/d/PXcN7ovBT9iWAXA"
         }
-      ]
+      ],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Escala",
+      "progressStage": "Em implantação",
+      "evidenceType": "Documento"
     },
     {
       "id": "r27",
@@ -1008,7 +1410,13 @@
       "priority": "Alta",
       "owner": "Diretoria / Consultoria",
       "summary": "COF, contrato, suporte, seleção de franqueados e modelo de implantação.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Escala",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r28",
@@ -1020,7 +1428,13 @@
       "priority": "Média",
       "owner": "Diretoria / Comercial",
       "summary": "Venda da produção da fábrica para restaurantes, eventos e food service.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Escala",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z35",
@@ -1032,7 +1446,13 @@
       "priority": "Alta",
       "owner": "Operação",
       "summary": "Roteiro diário por turno para cozinha, salão, bar e caixa.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z36",
@@ -1044,7 +1464,13 @@
       "priority": "Alta",
       "owner": "Operação",
       "summary": "Passo a passo de preparo de carnes, guarnições, molhos e manipulação.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z37",
@@ -1056,7 +1482,13 @@
       "priority": "Média",
       "owner": "Consultoria",
       "summary": "Checklist A a Z da obra à inauguração de novas unidades.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Escala",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r29",
@@ -1068,7 +1500,13 @@
       "priority": "Alta",
       "owner": "Operação",
       "summary": "Passo a passo de receitas, buffet, limpeza e rotina operacional.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r30",
@@ -1080,19 +1518,31 @@
       "priority": "Média",
       "owner": "Operação / Logística",
       "summary": "Fluxo fábrica → unidades próprias → franquias → B2B.",
-      "docs": []
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "z38",
-      "title": "Parcerias Locais",
+      "title": "Estruturação de Parcerias e Divulgação Regional",
       "brand": "Sr. Zanoni",
       "pillar": "marketing",
       "category": "Marketing",
       "status": "Pendente",
       "priority": "Baixa",
       "owner": "Marketing",
-      "summary": "Parcerias com empresas, condomínios e hotéis próximos às unidades.",
-      "docs": []
+      "summary": "Está pendente a construção de uma frente de parcerias locais e divulgação regional, buscando ampliar presença da marca fora dos canais próprios. A ideia é gerar novas oportunidades de aquisição por meio de conexões com empresas, condomínios, hotéis e outros agentes do entorno das unidades.",
+      "docs": [],
+      "problem": "Sem ações de parceria e presença regional, a marca fica mais dependente dos canais próprios e limita seu alcance comercial no entorno das operações.",
+      "businessImpact": "Amplia presença territorial da marca, cria novos pontos de entrada de clientes e fortalece a geração de demanda local.",
+      "nextStep": "Mapear parceiros estratégicos por região, definir abordagem comercial e estruturar ações-piloto de relacionamento e divulgação.",
+      "phase": "Escala",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
     },
     {
       "id": "r31",
@@ -1104,11 +1554,144 @@
       "priority": "Baixa",
       "owner": "Marketing",
       "summary": "Site com conceito, cardápio, história da marca e captação para franquias.",
+      "docs": [],
+      "problem": "Gargalo ou risco identificado na operação e/ou gestão que justificou a frente de trabalho.",
+      "businessImpact": "Fortalece controle, clareza de execução e base para crescimento com mais previsibilidade.",
+      "nextStep": "Consolidar implantação prática, acompanhar aderência e validar resultado na rotina.",
+      "phase": "Estruturação",
+      "progressStage": "Documentado",
+      "evidenceType": "Implantação"
+    },
+    {
+      "id": "i_a4sitzh",
+      "title": "Organização Estratégica do Cardápio como Ferramenta Comercial",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "phase": "Estruturação",
+      "progressStage": "Documentado",
+      "summary": "O cardápio começou a ser tratado como instrumento estratégico de marketing e venda, e não apenas como lista de produtos. Houve direcionamento para busca de referências, melhor organização visual, destaque para produtos-chave e alinhamento entre apresentação, margem e posicionamento da marca.",
+      "problem": "Sem uma leitura estratégica, o cardápio tende a comunicar pouco valor, vender mal os produtos-chave e desperdiçar potencial comercial e de posicionamento.",
+      "businessImpact": "Transforma o cardápio em ferramenta de venda e marca, melhora leitura comercial dos produtos e ajuda a conectar apresentação, margem e percepção de valor.",
+      "nextStep": "Consolidar a lógica de destaque dos itens-chave e alinhar o cardápio com campanhas, canal de delivery e comunicação institucional.",
+      "evidenceType": "Implantação",
+      "docs": []
+    },
+    {
+      "id": "i_0b0zycl",
+      "title": "Estruturação da Função de Marketing",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "phase": "Estruturação",
+      "progressStage": "Documentado",
+      "summary": "Foi formalizado o papel da área de marketing por meio de definição de rotina, responsabilidades, pilares de atuação e entregas esperadas. Esse movimento trouxe mais clareza sobre o que o marketing deve produzir, como deve operar ao longo da semana e como a área pode apoiar o crescimento do grupo com mais consistência.",
+      "problem": "A ausência de formalização da função deixava o marketing vulnerável a sobreposição de tarefas, baixa clareza de responsabilidade e dificuldade de cobrança objetiva.",
+      "businessImpact": "Profissionaliza a área, melhora previsibilidade de execução e cria base para gestão mais estruturada, com maior clareza sobre entregas e papel estratégico do setor.",
+      "nextStep": "Validar a rotina na prática, ajustar os pontos necessários e consolidar a função com acompanhamento recorrente e indicadores de execução.",
+      "evidenceType": "Implantação",
+      "docs": []
+    },
+    {
+      "id": "i_4hzvifg",
+      "title": "Implantação de Acompanhamento Semanal",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "phase": "Implantação e validação",
+      "progressStage": "Implantado",
+      "summary": "Foi iniciada uma rotina de acompanhamento semanal das entregas do marketing, permitindo maior visibilidade sobre ações executadas, evolução da área, próximos passos e necessidades de ajuste. Isso fortalece o controle da operação e melhora a capacidade de tomada de decisão com base no que está sendo efetivamente realizado.",
+      "problem": "Sem rotina de acompanhamento, o marketing perde previsibilidade, dificulta a priorização das entregas e reduz a capacidade de leitura da evolução da área.",
+      "businessImpact": "Aumenta visibilidade gerencial, melhora controle das entregas e fortalece a tomada de decisão com base em execução real e não apenas em percepção.",
+      "nextStep": "Aumenta visibilidade gerencial, melhora controle das entregas e fortalece a tomada de decisão com base em execução real e não apenas em percepção.",
+      "evidenceType": "Implantação",
+      "docs": []
+    },
+    {
+      "id": "i_o1vxzcd",
+      "title": "Fortalecimento do Marketing como Ferramenta de Crescimento",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Em andamento",
+      "priority": "Alta",
+      "owner": "",
+      "phase": "Implantação e validação",
+      "progressStage": "Em implantação",
+      "summary": "O marketing segue em evolução para deixar de atuar apenas como suporte operacional e passar a funcionar como ferramenta efetiva de crescimento do grupo. A frente está sendo conduzida para ganhar mais clareza de objetivo, maior conexão com vendas e papel mais ativo na geração de resultado comercial e fortalecimento da marca.",
+      "problem": "Mesmo após a reorganização inicial, o marketing ainda precisa consolidar sua função como área geradora de crescimento, evitando voltar a uma lógica reativa, dispersa e excessivamente operacional.",
+      "businessImpact": "Essa frente amplia a capacidade do marketing de contribuir para faturamento, posicionamento e geração de demanda, fortalecendo a empresa com mais consistência e previsibilidade nas ações.",
+      "nextStep": "Consolidar metas por campanha, rotina de acompanhamento e critérios mais claros de priorização, conectando marketing com vendas, delivery e expansão comercial.",
+      "evidenceType": "Implantação",
+      "docs": []
+    },
+    {
+      "id": "i_snjm6tf",
+      "title": "Consolidação do Posicionamento e da Comunicação da Marca",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Em andamento",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "phase": "Implantação e validação",
+      "progressStage": "Em implantação",
+      "summary": "O posicionamento da marca já começou a ser trabalhado, mas sua consolidação ainda está em andamento. A frente agora busca aprofundar a coerência entre identidade, linguagem, percepção de valor, apresentação comercial e comunicação com o público, para que a marca seja percebida de forma mais clara e consistente em todos os pontos de contato.",
+      "problem": "Sem consolidação do posicionamento, a comunicação corre o risco de ficar fragmentada, reduzindo coerência entre produto, imagem, preço, campanhas e experiência percebida pelo cliente.",
+      "businessImpact": "Melhora a clareza da marca no mercado, fortalece a percepção de valor e cria uma comunicação mais consistente, aumentando a capacidade de diferenciação e de construção de demanda.",
+      "nextStep": "Traduzir o posicionamento em linguagem, campanhas, materiais, cardápio, presença digital e padrão de comunicação comercial da marca.",
+      "evidenceType": "Implantação",
+      "docs": []
+    },
+    {
+      "id": "i_239wyyl",
+      "title": "Estruturação do Marketing de Pré-Abertura e Campanhas Comerciais",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Em foco",
+      "priority": "Alta",
+      "owner": "Lucas/Carol",
+      "phase": "Implantação e validação",
+      "progressStage": "Em implantação",
+      "summary": "Está em andamento a organização do marketing voltado à pré-abertura e às campanhas comerciais do grupo, com foco em dar mais direção às ações promocionais, melhorar a preparação da comunicação antes de movimentos importantes da operação e aumentar a efetividade das campanhas com objetivo comercial mais claro.",
+      "problem": "Sem uma lógica estruturada de pré-abertura e campanha, a empresa corre o risco de comunicar tarde, com baixa consistência e sem aproveitar plenamente os momentos comerciais relevantes da operação.",
+      "businessImpact": "Melhora a preparação comercial da operação, aumenta o potencial de tração nas ações promocionais e torna a comunicação mais alinhada com os momentos estratégicos do negócio.",
+      "nextStep": "Fechar calendário das campanhas prioritárias, organizar cronograma de execução e conectar cada ação a objetivo, público e canal de venda.",
+      "evidenceType": "Implantação",
+      "docs": []
+    },
+    {
+      "id": "i_jjswwuu",
+      "title": "Integração entre Marketing, Delivery e Canal Próprio",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Em andamento",
+      "priority": "Alta",
+      "owner": "Lucas",
+      "phase": "Implantação e validação",
+      "progressStage": "Implantado",
+      "summary": "A integração entre marketing, delivery e canal próprio segue em construção, com o objetivo de transformar as campanhas em geração direta de receita e reduzir a distância entre comunicação e conversão. A frente busca conectar melhor mídia, promoção, app, iFood e estratégia comercial, fortalecendo o uso do marketing como gerador de venda e não apenas de visibilidade",
+      "problem": "Quando marketing e canais de venda operam de forma separada, a empresa perde eficiência comercial, reduz conversão e mantém dependência maior de plataformas sem construir relação direta com a base de clientes.",
+      "businessImpact": "Aumenta a capacidade de transformar comunicação em venda, fortalece o canal próprio e melhora a integração entre estratégia de marketing e resultado comercial da operação.",
+      "nextStep": "Aprofundar campanhas direcionadas para app e delivery, comparar performance entre canais e aumentar a participação do canal próprio na geração de pedidos.",
+      "evidenceType": "Implantação",
       "docs": []
     }
   ],
   "timeline": [
     {
+      "phase": "Diagnóstico e organização",
       "id": "t1",
       "brand": "Sr. Zanoni",
       "date": "2025-05",
@@ -1117,6 +1700,7 @@
       "order": 1
     },
     {
+      "phase": "Escala e expansão",
       "id": "t2",
       "brand": "Sr. Zanoni",
       "date": "2025-11",
@@ -1125,6 +1709,7 @@
       "order": 2
     },
     {
+      "phase": "Padronização e controle",
       "id": "t3",
       "brand": "Sr. Zanoni",
       "date": "2025-12",
@@ -1133,6 +1718,7 @@
       "order": 3
     },
     {
+      "phase": "Padronização e controle",
       "id": "t4",
       "brand": "Sr. Zanoni",
       "date": "2026-01",
@@ -1141,6 +1727,7 @@
       "order": 4
     },
     {
+      "phase": "Diagnóstico e organização",
       "id": "t5",
       "brand": "Sr. Zanoni",
       "date": "2026-02",
@@ -1149,6 +1736,7 @@
       "order": 5
     },
     {
+      "phase": "Implantação e validação",
       "id": "t6",
       "brand": "Sr. Zanoni",
       "date": "2026-04",
@@ -1157,6 +1745,7 @@
       "order": 6
     },
     {
+      "phase": "Diagnóstico e organização",
       "id": "t7",
       "brand": "Raz",
       "date": "2025-06",
@@ -1165,6 +1754,7 @@
       "order": 1
     },
     {
+      "phase": "Escala e expansão",
       "id": "t8",
       "brand": "Raz",
       "date": "2025-08",
@@ -1173,6 +1763,7 @@
       "order": 2
     },
     {
+      "phase": "Escala e expansão",
       "id": "t9",
       "brand": "Raz",
       "date": "2025-09",
@@ -1181,6 +1772,7 @@
       "order": 3
     },
     {
+      "phase": "Diagnóstico e organização",
       "id": "t10",
       "brand": "Raz",
       "date": "2025-11",
@@ -1189,6 +1781,7 @@
       "order": 4
     },
     {
+      "phase": "Escala e expansão",
       "id": "t11",
       "brand": "Raz",
       "date": "2025-12",
@@ -1197,6 +1790,7 @@
       "order": 5
     },
     {
+      "phase": "Escala e expansão",
       "id": "t12",
       "brand": "Raz",
       "date": "2026-04",
