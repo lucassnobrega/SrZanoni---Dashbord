@@ -1,0 +1,1208 @@
+{
+  "items": [
+    {
+      "id": "g1",
+      "title": "Definição de Cargos e Estrutura Organizacional",
+      "brand": "Grupo MRZ",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Organograma completo com hierarquias definidas para escritório e operação.",
+      "docs": [
+        {
+          "label": "Estrutura Organizacional - Notion",
+          "url": "https://www.notion.so/33de2d0ad8b181989eafcc9e730699b4"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "Manual do Gerente - Grupo MRZ",
+      "brand": "Grupo MRZ",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Manual completo com responsabilidades, rotina gerencial e padrões de liderança.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/czQ9kd6MvqQjDxD"
+        },
+        {
+          "label": "Notion",
+          "url": "https://www.notion.so/33de2d0ad8b181b8b675dd0b57fd1b0d"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "Manual do setor de compras - Grupo MRZ",
+      "brand": "Grupo MRZ",
+      "pillar": "processos",
+      "category": "Processos",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Documento do fluxo de compras, cotação, recebimento e responsabilidades do setor.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/ZzqcKnJ6Hxw249U"
+        },
+        {
+          "label": "Notion",
+          "url": "https://www.notion.so/33de2d0ad8b1816d8bb8cebcb92881d6"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "Diagnóstico Escritório MRZ",
+      "brand": "Grupo MRZ",
+      "pillar": "financeiro",
+      "category": "Finanças",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Diagnóstico do escritório com gargalos, estrutura e prioridades de reorganização.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/c49HRHYNEIXV9SQ"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "Processos - Escritório MRZ",
+      "brand": "Grupo MRZ",
+      "pillar": "processos",
+      "category": "Processos",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Mapeamento dos fluxos administrativos do escritório, com visão integrada entre setores.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/pfAj_8yyOdA0uti"
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "Relatório Mensal - MRZ",
+      "brand": "Grupo MRZ",
+      "pillar": "financeiro",
+      "category": "Finanças",
+      "status": "Em foco",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Relatório mensal consolidado do grupo com visão financeira, operacional e encaminhamentos.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/MNC3PcJdrHVSZbs"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "Roteiro de Entrevista Comprador - MRZ",
+      "brand": "Grupo MRZ",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Roteiro estruturado para entrevistas da nova contratação da área de compras.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/R9siv0ZXY7EbX2K"
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "CRONOGRAMA INICIAL - MRZ",
+      "brand": "Grupo MRZ",
+      "pillar": "expansao",
+      "category": "Expansão",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Cronograma macro inicial da consultoria e das frentes prioritárias do grupo.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/3o0l2EeO1FRYIaf"
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "title": "Integrar marketing com faturamento (ROI)",
+      "brand": "Grupo MRZ",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Pendente",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Cruzar investimento de marketing com resultado real de vendas e margem.",
+      "docs": []
+    },
+    {
+      "id": "g10",
+      "title": "Implementar fluxo de caixa projetado",
+      "brand": "Grupo MRZ",
+      "pillar": "financeiro",
+      "category": "Finanças",
+      "status": "Pendente",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Criar projeção de caixa e rotina de acompanhamento consolidada do grupo.",
+      "docs": []
+    },
+    {
+      "id": "z1",
+      "title": "Reestruturação da Área de Marketing",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Carol / Lucas",
+      "summary": "Revisão completa da estrutura, responsabilidades e fluxo do setor de marketing.",
+      "docs": []
+    },
+    {
+      "id": "z2",
+      "title": "Manual de Cargo — Marketing",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Descrição de cargo, responsabilidades, entregas e indicadores da função de marketing.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/M4hYBEdbvST3AgM"
+        }
+      ]
+    },
+    {
+      "id": "z3",
+      "title": "Alinhamentos Estratégicos de Marketing",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Reuniões de posicionamento, campanhas, prioridades e direcionamento da operação.",
+      "docs": []
+    },
+    {
+      "id": "z4",
+      "title": "Relatórios Semanais — Carol",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Carol",
+      "summary": "Acompanhamento semanal das entregas e atividades do marketing.",
+      "docs": []
+    },
+    {
+      "id": "z5",
+      "title": "Gestão de iFood e Delivery",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Tecnologia",
+      "status": "Em foco",
+      "priority": "Alta",
+      "owner": "Lucas / Operação",
+      "summary": "Otimização de presença, operação e performance das plataformas de delivery.",
+      "docs": []
+    },
+    {
+      "id": "z6",
+      "title": "Google Meu Negócio — 3 Unidades",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Pendente",
+      "priority": "Média",
+      "owner": "Marketing",
+      "summary": "Otimizar as fichas de Londrina, Maringá e Alphaville com fotos, cardápio e descrições.",
+      "docs": []
+    },
+    {
+      "id": "z7",
+      "title": "Fotografia Profissional dos Pratos",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Pendente",
+      "priority": "Média",
+      "owner": "Marketing",
+      "summary": "Criar banco de imagens completo do cardápio para redes e delivery.",
+      "docs": []
+    },
+    {
+      "id": "z8",
+      "title": "Programa de Fidelidade",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Pendente",
+      "priority": "Baixa",
+      "owner": "Marketing",
+      "summary": "Sistema de recompensas para clientes recorrentes.",
+      "docs": []
+    },
+    {
+      "id": "z9",
+      "title": "Manual de Cargo — Isabella",
+      "brand": "Sr. Zanoni",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Descrição de cargo, rotina e indicadores da auxiliar administrativa.",
+      "docs": []
+    },
+    {
+      "id": "z10",
+      "title": "Manual de Cargo — Bruna",
+      "brand": "Sr. Zanoni",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Atribuições de liderança do escritório, rotina gerencial e indicadores.",
+      "docs": []
+    },
+    {
+      "id": "z11",
+      "title": "Manual de Cargo — Marco",
+      "brand": "Sr. Zanoni",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Fluxo financeiro operacional, rotina e metas do cargo.",
+      "docs": []
+    },
+    {
+      "id": "z12",
+      "title": "Manual de Cargo — Nelci",
+      "brand": "Sr. Zanoni",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Escopo operacional e rotina da função administrativa/financeira.",
+      "docs": []
+    },
+    {
+      "id": "z13",
+      "title": "Mapeamento de Todos os Setores de Loja",
+      "brand": "Sr. Zanoni",
+      "pillar": "pessoas",
+      "category": "Operacional",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas / Operação",
+      "summary": "Levantamento de caixa, cozinha, churrasqueira, bar, limpeza, garçons, gerência e produção.",
+      "docs": []
+    },
+    {
+      "id": "z14",
+      "title": "Dinâmica de Equipe",
+      "brand": "Sr. Zanoni",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Dinâmica presencial de integração, cultura e alinhamento de postura.",
+      "docs": []
+    },
+    {
+      "id": "z15",
+      "title": "Acompanhamento da nova contratação de compras",
+      "brand": "Sr. Zanoni",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Em andamento",
+      "priority": "Alta",
+      "owner": "Lucas / Bruna",
+      "summary": "Integração, validação de papel e maturidade da nova pessoa de compras.",
+      "docs": []
+    },
+    {
+      "id": "z16",
+      "title": "Programa de Onboarding",
+      "brand": "Sr. Zanoni",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Pendente",
+      "priority": "Média",
+      "owner": "RH / Consultoria",
+      "summary": "Estruturar integração dos primeiros 30 dias com checklist e avaliação.",
+      "docs": []
+    },
+    {
+      "id": "z17",
+      "title": "Manual de Loja Completo",
+      "brand": "Sr. Zanoni",
+      "pillar": "pessoas",
+      "category": "Processos",
+      "status": "Pendente",
+      "priority": "Alta",
+      "owner": "Lucas / Operação",
+      "summary": "Manual unificado para todas as unidades com padrão de operação e atendimento.",
+      "docs": []
+    },
+    {
+      "id": "z18",
+      "title": "CMV Zanoni - Detalhado",
+      "brand": "Sr. Zanoni",
+      "pillar": "financeiro",
+      "category": "CMV / Rentabilidade",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Análise detalhada de CMV Zanoni item a item com fichas técnicas e visão de margem.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/cBtS_rWoV7XH-Wi"
+        }
+      ]
+    },
+    {
+      "id": "z19",
+      "title": "CMV Zanoni - Simplificado",
+      "brand": "Sr. Zanoni",
+      "pillar": "financeiro",
+      "category": "CMV / Rentabilidade",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Versão executiva de acompanhamento rápido do CMV Zanoni.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/Wwepn56CdKW-OQW"
+        }
+      ]
+    },
+    {
+      "id": "z20",
+      "title": "CMV Zanoni - Evento",
+      "brand": "Sr. Zanoni",
+      "pillar": "financeiro",
+      "category": "CMV / Rentabilidade",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Modelo específico de CMV para eventos e operações especiais.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/xo2Lf-ZHNdw3q02"
+        }
+      ]
+    },
+    {
+      "id": "z21",
+      "title": "CMV Zanoni - Sem Reajuste",
+      "brand": "Sr. Zanoni",
+      "pillar": "financeiro",
+      "category": "CMV / Rentabilidade",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Análise de cenário mantendo os preços atuais sem reajuste aplicado.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/TmB6Ua6YfYxTWn9"
+        }
+      ]
+    },
+    {
+      "id": "z22",
+      "title": "Baixar CMV - Zanoni",
+      "brand": "Sr. Zanoni",
+      "pillar": "financeiro",
+      "category": "CMV / Rentabilidade",
+      "status": "Concluído",
+      "priority": "Baixa",
+      "owner": "Lucas Nobrega",
+      "summary": "Material operacional para download e impressão do CMV Zanoni.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/fJ_Tbzbaax1xkOr"
+        }
+      ]
+    },
+    {
+      "id": "z23",
+      "title": "Detalhamento de DRE",
+      "brand": "Sr. Zanoni",
+      "pillar": "financeiro",
+      "category": "Finanças",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Planilha analítica com abertura linha a linha da DRE das unidades.",
+      "docs": []
+    },
+    {
+      "id": "z24",
+      "title": "Comparação CMV Real vs. CMV Ideal",
+      "brand": "Sr. Zanoni",
+      "pillar": "financeiro",
+      "category": "CMV / Rentabilidade",
+      "status": "Em foco",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Cruzamento entre ficha técnica ideal e execução real da operação.",
+      "docs": []
+    },
+    {
+      "id": "z25",
+      "title": "Custo dos Itens — Novas Receitas",
+      "brand": "Sr. Zanoni",
+      "pillar": "financeiro",
+      "category": "CMV / Rentabilidade",
+      "status": "Em andamento",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Precificação e cálculo de margem dos novos pratos e receitas estratégicas.",
+      "docs": []
+    },
+    {
+      "id": "z26",
+      "title": "Fluxo de Caixa Projetado",
+      "brand": "Sr. Zanoni",
+      "pillar": "financeiro",
+      "category": "Finanças",
+      "status": "Em andamento",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Projeção de caixa para os próximos meses e apoio à tomada de decisão.",
+      "docs": []
+    },
+    {
+      "id": "z27",
+      "title": "DRE Mensal Automatizado",
+      "brand": "Sr. Zanoni",
+      "pillar": "financeiro",
+      "category": "Finanças",
+      "status": "Pendente",
+      "priority": "Alta",
+      "owner": "Financeiro",
+      "summary": "Disponibilizar DRE até o 5º dia útil sem trabalho manual de consolidação.",
+      "docs": []
+    },
+    {
+      "id": "z28",
+      "title": "Projeção Financeira Alphaville",
+      "brand": "Sr. Zanoni",
+      "pillar": "financeiro",
+      "category": "Expansão",
+      "status": "Pendente",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Investimento, vendas, break-even e payback da nova unidade Alphaville.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/LT7OWH_AmtzSsV2"
+        }
+      ]
+    },
+    {
+      "id": "z29",
+      "title": "Fluxograma e Manual - Controle de estoque Raz & Zanoni",
+      "brand": "Sr. Zanoni",
+      "pillar": "processos",
+      "category": "Processos",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Fluxo visual de entrada, armazenamento, conferência e saída de estoque.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/KMXmnAAgx-htzrO"
+        }
+      ]
+    },
+    {
+      "id": "z30",
+      "title": "Conferência de Caixa",
+      "brand": "Sr. Zanoni",
+      "pillar": "processos",
+      "category": "Operacional",
+      "status": "Em foco",
+      "priority": "Alta",
+      "owner": "Lucas / Nelci",
+      "summary": "Ajuste do processo de conferência de caixa e leitura de fechamentos.",
+      "docs": []
+    },
+    {
+      "id": "z31",
+      "title": "Cardápio completo unidade Alphaville",
+      "brand": "Sr. Zanoni",
+      "pillar": "processos",
+      "category": "Expansão",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Entradas, saladas, sanduíches, massas, porções, grelhados, bebidas, fichas técnicas e precificação.",
+      "docs": []
+    },
+    {
+      "id": "z32",
+      "title": "Abertura da unidade Alphaville",
+      "brand": "Sr. Zanoni",
+      "pillar": "expansao",
+      "category": "Expansão",
+      "status": "Em foco",
+      "priority": "Alta",
+      "owner": "Lucas / Operação",
+      "summary": "Execução do protótipo Alphaville como base de validação do novo modelo de unidade.",
+      "docs": []
+    },
+    {
+      "id": "z33",
+      "title": "Validação da loja e dos processos",
+      "brand": "Sr. Zanoni",
+      "pillar": "expansao",
+      "category": "Expansão",
+      "status": "Pendente",
+      "priority": "Alta",
+      "owner": "Lucas / Operação",
+      "summary": "Medir, ajustar e padronizar antes de replicar em novas unidades.",
+      "docs": []
+    },
+    {
+      "id": "z34",
+      "title": "Expansão acelerada (novas unidades)",
+      "brand": "Sr. Zanoni",
+      "pillar": "expansao",
+      "category": "Expansão",
+      "status": "Pendente",
+      "priority": "Média",
+      "owner": "Diretoria",
+      "summary": "Replicar o modelo validado em novas operações próprias.",
+      "docs": []
+    },
+    {
+      "id": "r1",
+      "title": "Planejamento de Marketing - Raz",
+      "brand": "Raz",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Planejamento completo de marketing do Raz, com frentes, posicionamento e ações.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/-hbihFsABAtO5E8"
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "title": "Conceitos de Marketing - Raz",
+      "brand": "Raz",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Conceitos, posicionamento e bases de comunicação da marca Raz.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/jpbSmPikI0jme9D"
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "title": "Marketing (Cronograma) - Raz",
+      "brand": "Raz",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Versão adicional do cronograma de marketing para execução das ações do Raz.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/dQP2aSDlOXZd0xl"
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "title": "Estratégias Semana de Lançamento Yalla",
+      "brand": "Raz",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Plano da semana de lançamento do Yalla com ações, ofertas e comunicação.",
+      "docs": []
+    },
+    {
+      "id": "r5",
+      "title": "Calendário Editorial - Raz",
+      "brand": "Raz",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Em andamento",
+      "priority": "Média",
+      "owner": "Marketing",
+      "summary": "Montagem do calendário mensal com datas, formatos, campanhas e responsáveis.",
+      "docs": []
+    },
+    {
+      "id": "r6",
+      "title": "Marketing da Marmita Raz",
+      "brand": "Raz",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Pendente",
+      "priority": "Média",
+      "owner": "Marketing",
+      "summary": "Estratégia para a linha de marmitas saudáveis e posicionamento do produto.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/NDpkL-jAwdItYbx"
+        }
+      ]
+    },
+    {
+      "id": "r7",
+      "title": "Cronograma RH - Raz",
+      "brand": "Raz",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Planejamento das ações de RH do Raz com prioridades e cronograma.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/R4VfSmHykEMtAXc"
+        }
+      ]
+    },
+    {
+      "id": "r8",
+      "title": "Relatório Diagnóstico RH - Raz",
+      "brand": "Raz",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Diagnóstico de estrutura, gaps e pontos de melhoria em pessoas e gestão.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/zAOPU7hq4Wgg3Uu"
+        }
+      ]
+    },
+    {
+      "id": "r9",
+      "title": "Manual Interno - Raz/Yalla",
+      "brand": "Raz",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Manual com cultura, conduta, padrão de atendimento e orientações operacionais.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/PVxa7rcENjUafEn"
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "title": "Atendimento e Venda Consultiva",
+      "brand": "Raz",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Treinamento e material de atendimento com foco em venda consultiva.",
+      "docs": []
+    },
+    {
+      "id": "r11",
+      "title": "Plano de Ação - Raz",
+      "brand": "Raz",
+      "pillar": "pessoas",
+      "category": "Pessoas",
+      "status": "Em foco",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Relatório consolidado com plano de ação operacional e gerencial do Raz.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/pCQs8QABdgrrzDS"
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "title": "Programa de Treinamento para Franqueados",
+      "brand": "Raz",
+      "pillar": "pessoas",
+      "category": "Expansão",
+      "status": "Pendente",
+      "priority": "Alta",
+      "owner": "Consultoria",
+      "summary": "Pacote de treinamento para futuros franqueados e equipes operacionais.",
+      "docs": []
+    },
+    {
+      "id": "r13",
+      "title": "Consumo de Buffet - Raz",
+      "brand": "Raz",
+      "pillar": "financeiro",
+      "category": "CMV / Rentabilidade",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Análise detalhada de consumo e custo do buffet do Raz.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/Pt0k5EZeRN49-2b"
+        }
+      ]
+    },
+    {
+      "id": "r14",
+      "title": "Estoque mín. e máx. - Raz",
+      "brand": "Raz",
+      "pillar": "financeiro",
+      "category": "CMV / Rentabilidade",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Parâmetros de reposição por insumo para melhorar compras e ruptura.",
+      "docs": []
+    },
+    {
+      "id": "r15",
+      "title": "DRE Alameda e Mercadão",
+      "brand": "Raz",
+      "pillar": "financeiro",
+      "category": "Finanças",
+      "status": "Concluído",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Demonstrativos de resultado das duas unidades do Raz com leitura gerencial.",
+      "docs": []
+    },
+    {
+      "id": "r16",
+      "title": "Proposta Gestão - Raz",
+      "brand": "Raz",
+      "pillar": "financeiro",
+      "category": "Finanças",
+      "status": "Concluído",
+      "priority": "Baixa",
+      "owner": "Lucas Nobrega",
+      "summary": "Escopo financeiro definido desde o início da consultoria Raz.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/S1RbcV_DfFTAn0M"
+        }
+      ]
+    },
+    {
+      "id": "r17",
+      "title": "Padronizar CMV - Alameda & Mercadão",
+      "brand": "Raz",
+      "pillar": "financeiro",
+      "category": "CMV / Rentabilidade",
+      "status": "Em andamento",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Unificar método de cálculo e meta de CMV entre as unidades.",
+      "docs": []
+    },
+    {
+      "id": "r18",
+      "title": "Fluxo de Caixa Projetado - Raz",
+      "brand": "Raz",
+      "pillar": "financeiro",
+      "category": "Finanças",
+      "status": "Em andamento",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Projeção de entradas e saídas para apoiar crescimento e expansão.",
+      "docs": []
+    },
+    {
+      "id": "r19",
+      "title": "Modelo Financeiro da Franquia",
+      "brand": "Raz",
+      "pillar": "financeiro",
+      "category": "Expansão",
+      "status": "Pendente",
+      "priority": "Alta",
+      "owner": "Consultoria",
+      "summary": "DRE do franqueado, taxas, royalties e projeção de retorno.",
+      "docs": []
+    },
+    {
+      "id": "r20",
+      "title": "Precificação B2B",
+      "brand": "Raz",
+      "pillar": "financeiro",
+      "category": "Expansão",
+      "status": "Pendente",
+      "priority": "Média",
+      "owner": "Consultoria",
+      "summary": "Tabela de preços para canal corporativo com margens adequadas.",
+      "docs": []
+    },
+    {
+      "id": "r21",
+      "title": "Consultoria Express - Raz",
+      "brand": "Raz",
+      "pillar": "processos",
+      "category": "Operacional",
+      "status": "Concluído",
+      "priority": "Baixa",
+      "owner": "Lucas Nobrega",
+      "summary": "Material da fase inicial de consultoria express do Raz.",
+      "docs": []
+    },
+    {
+      "id": "r22",
+      "title": "Pratos Executivos - Raz",
+      "brand": "Raz",
+      "pillar": "processos",
+      "category": "Operacional",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Estruturação de pratos executivos do Raz com visão de produto e operação.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/K8sTzG1Cs9k0x_5"
+        }
+      ]
+    },
+    {
+      "id": "r23",
+      "title": "Relatório + Ações - Raz",
+      "brand": "Raz",
+      "pillar": "processos",
+      "category": "Operacional",
+      "status": "Concluído",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Relatório consolidado e plano de ações do Raz.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/pCQs8QABdgrrzDS"
+        }
+      ]
+    },
+    {
+      "id": "r24",
+      "title": "Estruturar Fábrica Central Raz",
+      "brand": "Raz",
+      "pillar": "processos",
+      "category": "Expansão",
+      "status": "Em foco",
+      "priority": "Alta",
+      "owner": "Lucas Nobrega",
+      "summary": "Planejamento da produção centralizada que sustentará franquias e canal B2B.",
+      "docs": []
+    },
+    {
+      "id": "r25",
+      "title": "Marmita Raz",
+      "brand": "Raz",
+      "pillar": "processos",
+      "category": "Operacional",
+      "status": "Em andamento",
+      "priority": "Média",
+      "owner": "Lucas Nobrega",
+      "summary": "Desenvolvimento da linha de marmitas saudáveis do Raz.",
+      "docs": [
+        {
+          "label": "Canva",
+          "url": "https://www.canva.com/d/NDpkL-jAwdItYbx"
+        }
+      ]
+    },
+    {
+      "id": "r26",
+      "title": "Padronização da operação atual",
+      "brand": "Raz",
+      "pillar": "expansao",
+      "category": "Expansão",
+      "status": "Em foco",
+      "priority": "Alta",
+      "owner": "Consultoria",
+      "summary": "Consolidação de processos, manuais, fichas técnicas e rotina replicável.",
+      "docs": [
+        {
+          "label": "Canva - Expansão Estratégica",
+          "url": "https://www.canva.com/d/PXcN7ovBT9iWAXA"
+        }
+      ]
+    },
+    {
+      "id": "r27",
+      "title": "Abertura do franchising",
+      "brand": "Raz",
+      "pillar": "expansao",
+      "category": "Expansão",
+      "status": "Pendente",
+      "priority": "Alta",
+      "owner": "Diretoria / Consultoria",
+      "summary": "COF, contrato, suporte, seleção de franqueados e modelo de implantação.",
+      "docs": []
+    },
+    {
+      "id": "r28",
+      "title": "Canal B2B",
+      "brand": "Raz",
+      "pillar": "expansao",
+      "category": "Expansão",
+      "status": "Pendente",
+      "priority": "Média",
+      "owner": "Diretoria / Comercial",
+      "summary": "Venda da produção da fábrica para restaurantes, eventos e food service.",
+      "docs": []
+    },
+    {
+      "id": "z35",
+      "title": "Checklists de Abertura e Fechamento",
+      "brand": "Sr. Zanoni",
+      "pillar": "processos",
+      "category": "Processos",
+      "status": "Pendente",
+      "priority": "Alta",
+      "owner": "Operação",
+      "summary": "Roteiro diário por turno para cozinha, salão, bar e caixa.",
+      "docs": []
+    },
+    {
+      "id": "z36",
+      "title": "POPs de Cozinha",
+      "brand": "Sr. Zanoni",
+      "pillar": "processos",
+      "category": "Processos",
+      "status": "Pendente",
+      "priority": "Alta",
+      "owner": "Operação",
+      "summary": "Passo a passo de preparo de carnes, guarnições, molhos e manipulação.",
+      "docs": []
+    },
+    {
+      "id": "z37",
+      "title": "Playbook de Abertura de Nova Unidade",
+      "brand": "Sr. Zanoni",
+      "pillar": "expansao",
+      "category": "Expansão",
+      "status": "Pendente",
+      "priority": "Média",
+      "owner": "Consultoria",
+      "summary": "Checklist A a Z da obra à inauguração de novas unidades.",
+      "docs": []
+    },
+    {
+      "id": "r29",
+      "title": "POPs completos do Raz",
+      "brand": "Raz",
+      "pillar": "processos",
+      "category": "Processos",
+      "status": "Pendente",
+      "priority": "Alta",
+      "owner": "Operação",
+      "summary": "Passo a passo de receitas, buffet, limpeza e rotina operacional.",
+      "docs": []
+    },
+    {
+      "id": "r30",
+      "title": "Logística de Distribuição",
+      "brand": "Raz",
+      "pillar": "processos",
+      "category": "Expansão",
+      "status": "Pendente",
+      "priority": "Média",
+      "owner": "Operação / Logística",
+      "summary": "Fluxo fábrica → unidades próprias → franquias → B2B.",
+      "docs": []
+    },
+    {
+      "id": "z38",
+      "title": "Parcerias Locais",
+      "brand": "Sr. Zanoni",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Pendente",
+      "priority": "Baixa",
+      "owner": "Marketing",
+      "summary": "Parcerias com empresas, condomínios e hotéis próximos às unidades.",
+      "docs": []
+    },
+    {
+      "id": "r31",
+      "title": "Website institucional Raz",
+      "brand": "Raz",
+      "pillar": "marketing",
+      "category": "Marketing",
+      "status": "Pendente",
+      "priority": "Baixa",
+      "owner": "Marketing",
+      "summary": "Site com conceito, cardápio, história da marca e captação para franquias.",
+      "docs": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "brand": "Sr. Zanoni",
+      "date": "2025-05",
+      "title": "Contrato assinado",
+      "subtitle": "Início da consultoria do Grupo Sr. Zanoni",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "brand": "Sr. Zanoni",
+      "date": "2025-11",
+      "title": "Manuais de cargo do escritório",
+      "subtitle": "Isabella, Bruna, Carol, Marco e Nelci",
+      "order": 2
+    },
+    {
+      "id": "t3",
+      "brand": "Sr. Zanoni",
+      "date": "2025-12",
+      "title": "Fluxograma de controle de estoque",
+      "subtitle": "Documento integrado Raz & Zanoni",
+      "order": 3
+    },
+    {
+      "id": "t4",
+      "brand": "Sr. Zanoni",
+      "date": "2026-01",
+      "title": "CMVs Zanoni completos",
+      "subtitle": "Detalhado, simplificado, evento e sem reajuste",
+      "order": 4
+    },
+    {
+      "id": "t5",
+      "brand": "Sr. Zanoni",
+      "date": "2026-02",
+      "title": "Diagnóstico Escritório MRZ",
+      "subtitle": "Diagnóstico completo + relatório mensal",
+      "order": 5
+    },
+    {
+      "id": "t6",
+      "brand": "Sr. Zanoni",
+      "date": "2026-04",
+      "title": "Alphaville em execução",
+      "subtitle": "Protótipo da nova fase de expansão",
+      "order": 6
+    },
+    {
+      "id": "t7",
+      "brand": "Raz",
+      "date": "2025-06",
+      "title": "Contrato e proposta Raz",
+      "subtitle": "Início da consultoria Raz / Yalla",
+      "order": 1
+    },
+    {
+      "id": "t8",
+      "brand": "Raz",
+      "date": "2025-08",
+      "title": "Consumo de Buffet",
+      "subtitle": "Análise detalhada de consumo e custo do buffet",
+      "order": 2
+    },
+    {
+      "id": "t9",
+      "brand": "Raz",
+      "date": "2025-09",
+      "title": "Planejamento e marketing",
+      "subtitle": "Posicionamento, cronograma e conceitos",
+      "order": 3
+    },
+    {
+      "id": "t10",
+      "brand": "Raz",
+      "date": "2025-11",
+      "title": "Diagnóstico RH e cultura",
+      "subtitle": "Cronograma RH, diagnóstico e manuais",
+      "order": 4
+    },
+    {
+      "id": "t11",
+      "brand": "Raz",
+      "date": "2025-12",
+      "title": "12 fichas nutricionais / rótulos",
+      "subtitle": "Base técnica dos produtos do cardápio",
+      "order": 5
+    },
+    {
+      "id": "t12",
+      "brand": "Raz",
+      "date": "2026-04",
+      "title": "Fábrica central em estruturação",
+      "subtitle": "Planejamento da produção centralizada para franquia e B2B",
+      "order": 6
+    }
+  ]
+}
